@@ -1,0 +1,18 @@
+.blog{
+    background-color: lightcoral;
+    border: 10px solid gray;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 50px;
+}
+.header{
+    height: 200px;
+    background-image: url('../../images/istockphoto-1288009387-170667a.jpg');
+    background-repeat:no-repeat;
+    background-size:100%;
+    background-position: bottom left;
+    color: aliceblue;
+    background-blend-mode: multiply;
+    /* background-color: red; */
+   *
+}
